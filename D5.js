@@ -12,6 +12,9 @@ REGOLE
 */
 console.log("Eserciozio 1");
 const pets = ["dog", "cat", "hamster", "redfish"];
+for (let index = 0; index < pets.length; index++) {
+  console.log(pets[index]);
+}
 console.log(pets);
 
 /* ESERCIZIO 2
