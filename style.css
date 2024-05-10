@@ -1,1 +1,122 @@
 /* Your styles here */
+
+/* Header */
+
+.backgroundLogo {
+    background-color: #222F3F;
+}
+.colorBlue {
+    background-color: #364759;
+    padding-left: 0.8rem;
+}
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0.6vh;
+}
+    header nav {
+        padding: 0.8vh;
+    }
+header img {
+    height: 3rem;
+    margin-left: 1rem;
+}
+
+
+/* Body */
+body {
+    background-color: #D9EDE4;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    margin: 15rem, 15rem;
+    width: 97%;
+    margin: auto;
+}
+/* Barra arancione */
+h4 {
+    text-align: center;
+    background-color: #F56600;
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2vh;
+
+}
+/* Barra verde */
+.barraVerde {
+    text-align: center;
+    color: white;
+    background-image: url(./assets/images/bg-image.png);
+    background-size: cover;
+    padding: 5.5vh;
+}
+
+h2 {
+    font-size: 5vh;
+    font-weight: 500;
+    margin-bottom: 2.5vh;
+}
+/* forCards */
+.forCards {
+    background-color: #FFFFFF;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+h3 {
+    font-size: 2.5vh;
+    padding: 2vh;
+    font-weight: 700;
+}
+
+.forCards a {
+     margin-left: 1vw;
+    font-size: 2vh;
+    color: #437B86;
+    text-decoration: none;
+}
+.forCards img {
+    width: 21.8vw;
+    height: 45vh;
+    margin: 1vw;
+    border-radius: 5%;
+    box-shadow: 1px 0px 11px 1px #000000
+}
+
+.imagineCards {
+    display: inline-block;
+    width: 100vw;
+    
+}
+/* banner */
+.imageBanners {
+    height: 60vh;
+    width: 100vw;
+}
+.banner h3 {
+    text-align: center;
+}
+
+.banner a {
+    font-size: 1.6vh;
+    color: #437B86;
+    margin-left: 1vw;
+    text-decoration: none;
+    
+}
+/* footer */
+footer {
+    text-align: center;
+}
+footer img {
+    height: 4rem;
+    padding: 3.2rem;
+}
+footer nav {
+    padding: 0.5rem;
+}
+footer nav a {
+    color: white;
+}
